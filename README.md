@@ -2,5 +2,5 @@ adventure
 =========
 
 Object Oriented conversational adventure
-Java version (DEV SNAPSHOT)
+Java version (beta-0.1)
 
