@@ -2,4 +2,4 @@ adventure
 =========
 
 Object Oriented conversational adventure
-Java version (dev) cambios locales
+Java version (dev) cambios en rama local
